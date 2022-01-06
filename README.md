@@ -26,4 +26,5 @@ GUI of BSOD Detection Model
 - Tkinter - Python GUI Package
 
 Google Drive link for the Images & Videos folder
+
 https://drive.google.com/drive/folders/1GuA_ZVrhrTDpYDq4tQBlbHVpbCz5QHEm?usp=sharing
